@@ -1,7 +1,7 @@
 <?php
 
 $username = 'root';
-$password = 'JnikcBKqACL2';
+$password = '';
 $connection = new PDO( 'mysql:host=localhost;dbname=sam', $username, $password );
 
 ?>
