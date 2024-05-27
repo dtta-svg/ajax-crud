@@ -1,7 +1,7 @@
 <?php
 
- $username = 'djnuccgrnn';
- $password = 'm$laHeq$COiK2MLP';
- $connection = new PDO( 'mysql:host=my-curd-app-server.mysql.database.azure.com;dbname=dtta', $username, $password );
+ $username = 'vnbrjkkscw';
+ $password = '62hWVwSe3c6$YIzo';
+ $connection = new PDO( 'mysql:host=cued-php-server.mysql.database.azure.com;dbname=dtta', $username, $password );
  
 ?>
